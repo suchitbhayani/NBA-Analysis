@@ -1,5 +1,5 @@
 created December 2022 for AP Computer Science semester 1 final
 
-- Extracted and analyzed each player’s individual statistics for the 2022-2023 NBA Season
-- Designed a search engine which returned searched player’s statistics
-- Calculated league leaders and averages for each individual statistic
+- Conducted comprehensive extraction and analysis of individual player statistics during the 2022-2023 NBA Season
+- Developed a search engine to efficiently retrieve and display player statistics upon user queries
+- Generated calculations for league leaders and averages across various individual statistical categories
